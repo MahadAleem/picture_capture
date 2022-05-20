@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">PictureCapture</string>
+    <string name="permission_setting_msg">You need to allow necessary permissions in Settings manually</string>
+    <string name="permission_denied_msg">\"These permissions are denied: \"</string>
+    <string name="permission_request_explain_msg">Core fundamental are based on these permissions</string>
+    <string name="ok">OK</string>
+    <string name="cancel">cancel</string>
 </resources>
